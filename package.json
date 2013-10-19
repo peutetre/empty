@@ -10,7 +10,7 @@
   "keywords": [ ],
   "homepage": "https://github.com/peutetre/empty",
   "bugs": "https://github.com/peutetre/empty/issues",
-  "main": "lib/main.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/peutetre/empty.git"
